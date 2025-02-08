@@ -10,7 +10,7 @@ global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
 global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
+global.ownernumber = '263719495067' //ur owner number
 global.ownername = 'ELITEPRO' //ur owner name
 
 global.themeemoji = '👨‍💻'
