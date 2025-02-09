@@ -10,7 +10,7 @@ global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
 global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '263719495067' //ur owner number
+global.ownernumber = '66 80 365 5344' //ur owner number
 global.ownername = 'ELITEPRO' //ur owner name
 
 global.themeemoji = '👨‍💻'
@@ -31,9 +31,9 @@ global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.autoswview = true//auto status/story view
 global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.groupevent = true //show update messages in group chat
 
 
 
